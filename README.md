@@ -17,4 +17,10 @@ The class `NSTextContainer` handles the rect of each line. We subclassed it.
 I tried subclassing `UITextView` to control the rendering, but it was a mess. So for demonstration purposes, I implemented a custom `UIView` applying some affine transformations to each line of text vertically readable from top-left to bottom-right.
 
 
+---
+
+MIT License
+
+Santi González
+
 [1]: https://developer.apple.com/library/mac/samplecode/TextLayoutDemo/Introduction/Intro.html
